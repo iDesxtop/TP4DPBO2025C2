@@ -13,6 +13,7 @@ Pada Umur, kita memilih umur yang sesuai dengan menggunakan Slider.
 Alur dibagi menjadi 3, Create Update dan Delete.  
 ### Create (Add)
 Kita dapat menambahkan data dengan fitur add ini. Kita perlu memasukkan data yang benar ke kolom yang sesuai dan mengklik tombol "Add". Data akan tersimpan pada list dan akan ditampilkan langsung.  
+Jika sudah terlanjut mengklik salah satu baris dan Tombol berubah menjadi "Update", klik tombol "Cancel" untuk kembali dapat melakukan "Add".  
 ![image](https://github.com/user-attachments/assets/7cabea54-10b1-4be0-8850-9eb53c77ae50)  
 ![image](https://github.com/user-attachments/assets/a594bb84-c4a6-4986-a368-4893b2e687ce)  
 ![image](https://github.com/user-attachments/assets/08c6658d-2c99-456f-8c42-5d68ae2a6598)  
